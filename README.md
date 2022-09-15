@@ -31,7 +31,7 @@ of your past rest days.
 
 ### Prerequisites
 
-You need a copy of Python 3.  I only tested this with Python 3.10.
+You need a copy of Python 3.  I only tested this with Python 3.10.  One way to install Python 3 is as follows:
 
 1. Install [Brew](https://brew.sh).
 2. ```brew install python3```
