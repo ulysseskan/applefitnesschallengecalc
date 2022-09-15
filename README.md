@@ -2,14 +2,14 @@
 ## About
 
 Each month, Apple Fitness creates a new goal for you.  Depending on the goal,
-it may also try and calculate the effort you need to put in each day to
+it may try and calculate the effort you need to put in each day to
 attain that goal.
 
 Problem: Apple calculates this effort assuming you don't have a day
 of rest - for example, Sunday.
 
 For example, in the screenshot below, Apple suggests exercising for at least 45 minutes
-per day - including Sundays.
+per day - including Sundays:
 
 ![apple_default_fitness_challenge_calc](https://user-images.githubusercontent.com/71786368/190300141-469877ee-7935-427c-b5ec-4a183977735f.jpg)
 
