@@ -19,7 +19,7 @@ to exclude Sundays:
 <img width="1353" alt="applefitnesschallengecalc_screenshot" src="https://user-images.githubusercontent.com/71786368/190300161-c54b27bd-f331-4bea-9ff4-6543bd72869c.png">
 
 You'll note it does ask for the expected amount of natural exertion you would
-put in each Sunday / day of rest.  You can figure this out by looking at a few
+put in each Sunday / day of rest.  You can estimate this by looking at a few
 of your past rest days.
 
 <!-- GETTING STARTED -->
