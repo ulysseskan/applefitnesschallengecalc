@@ -11,12 +11,12 @@ of rest - for example, Sunday.
 For example, in the screenshot below, Apple suggests exercising for at least 45 minutes
 per day - including Sundays.
 
-[apple_default_fitness_challenge_calc.jpg]
+![apple_default_fitness_challenge_calc](https://user-images.githubusercontent.com/71786368/190300141-469877ee-7935-427c-b5ec-4a183977735f.jpg)
 
 This quick and dirty python script recalculates your daily effort amount
 to exclude Sundays:
 
-[applefitnesschallengecalc_screenshot.png]
+<img width="1353" alt="applefitnesschallengecalc_screenshot" src="https://user-images.githubusercontent.com/71786368/190300161-c54b27bd-f331-4bea-9ff4-6543bd72869c.png">
 
 You'll note it does ask for the expected amount of natural exertion you would
 put in each Sunday / day of rest.  You can figure this out by looking at a few
