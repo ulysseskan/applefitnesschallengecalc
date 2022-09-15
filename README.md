@@ -1,4 +1,7 @@
 <!-- ABOUT THE PROJECT -->
+## tl;dr
+Quick and dirty script to exclude Sundays (rest days) from Apple Fitness daily goals.
+
 ## About
 
 Each month, Apple Fitness creates a new goal for you.  Depending on the goal,
@@ -13,8 +16,7 @@ per day - including Sundays:
 
 ![apple_default_fitness_challenge_calc](https://user-images.githubusercontent.com/71786368/190300141-469877ee-7935-427c-b5ec-4a183977735f.jpg)
 
-This quick and dirty python script recalculates your daily effort amount
-to exclude Sundays:
+This Python script recalculates your daily effort amount to exclude Sundays:
 
 <img width="1353" alt="applefitnesschallengecalc_screenshot" src="https://user-images.githubusercontent.com/71786368/190300161-c54b27bd-f331-4bea-9ff4-6543bd72869c.png">
 
@@ -39,12 +41,12 @@ You need a copy of Python 3.  I only tested this with Python 3.10.  One way to i
 ```echo "eval \$($(brew --prefix)/bin/brew shellenv)" >>~/.profile```
 
 <!-- IMPROVEMENTS -->
-## Improvements that could be made
+## Potential Improvements
 
 - [ ] input validation
 - [ ] detection of whether the user is using minutes or calories
 - [ ] add a check to see if the user has already met their goal
-- [ ] define functions (not sure this is really needed for such a small script)
+- [ ] define functions
 - [ ] add unit tests
 - [ ] if Apple ever adds HealthKit APIs to macOS, this script could be rewritten to use it, ref: https://developer.apple.com/forums/thread/94937
 
