@@ -48,7 +48,8 @@ You need a copy of Python 3.  I only tested this with Python 3.10.  One way to i
 - [ ] add a check to see if the user has already met their goal
 - [ ] define functions
 - [ ] add unit tests
-- [ ] if Apple ever adds HealthKit APIs to macOS, this script could be rewritten to use it, ref: https://developer.apple.com/forums/thread/94937
+- [ ] allow multiple rest days and/or sick days per week
+- [ ] if Apple ever adds HealthKit APIs to macOS, this script could be rewritten to automatically obtain current challenge data, ref: https://developer.apple.com/forums/thread/94937
 
 
 <!-- LICENSE -->
