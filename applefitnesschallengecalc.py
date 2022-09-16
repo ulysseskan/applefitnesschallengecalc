@@ -33,6 +33,6 @@ newgoal = goalremaining - upcomingsundayexertion
 needperday = newgoal / nonsundaysleftinmonth
 
 rounded_up = -(-int(needperday) // 1) # round up by dividing on negative number and negating answer
-output = f"You need about {rounded_up} minutes or calories per day for the rest of the month \
-to meet your goal."
+output = f"You need about {rounded_up} minutes or calories per day (excluding Sundays) \
+for the rest of the month to meet your goal."
 print(output)
