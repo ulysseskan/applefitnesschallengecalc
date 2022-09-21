@@ -45,6 +45,7 @@ You need a copy of Python 3.  I only tested this with Python 3.10.  One way to i
 
 - [ ] allow command line arguments and make interactive mode optional
 - [ ] input validation
+- [ ] improve variable names so they're shorter and more pythonic, ref: https://stackoverflow.com/a/48721872
 - [ ] detection of whether the user is using minutes or calories
 - [ ] add a check to see if the user has already met their goal
 - [ ] define functions
