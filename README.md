@@ -40,7 +40,10 @@ You need a copy of Python 3.  I only tested this with Python 3.10.  One way to i
 3. Ensure Brew's executable bin directory is in your PATH variable, for example:<br>
 ```echo "eval \$($(brew --prefix)/bin/brew shellenv)" >>~/.profile```
 
-<!-- IMPROVEMENTS -->
+## Known Bugs
+
+- [ ] Should include today's date as part of needperday calculation, to match Apple's behavior
+
 ## Potential Improvements
 
 - [ ] allow command line arguments and make interactive mode optional
